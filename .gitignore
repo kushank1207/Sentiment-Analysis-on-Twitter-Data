@@ -1,6 +1,7 @@
 # dotenv environment variables file
 .env
-
+/Tweets_retrieval/api_keys.py
+api_keys.py
 *.DS_Store
 .AppleDouble
 .LSOverride
